@@ -4,9 +4,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/gopcua/opcua/id"
-	"github.com/gopcua/opcua/server/attrs"
-	"github.com/gopcua/opcua/ua"
+	"github.com/piggito/opcua/id"
+	"github.com/piggito/opcua/server/attrs"
+	"github.com/piggito/opcua/ua"
 )
 
 // This namespaces give a convenient way to have data mapped to the OPC server

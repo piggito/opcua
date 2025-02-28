@@ -4,9 +4,9 @@ import (
 	"slices"
 	"time"
 
-	"github.com/gopcua/opcua/id"
-	"github.com/gopcua/opcua/ua"
-	"github.com/gopcua/opcua/uasc"
+	"github.com/piggito/opcua/id"
+	"github.com/piggito/opcua/ua"
+	"github.com/piggito/opcua/uasc"
 )
 
 var (

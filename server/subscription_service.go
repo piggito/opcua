@@ -5,8 +5,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/gopcua/opcua/ua"
-	"github.com/gopcua/opcua/uasc"
+	"github.com/piggito/opcua/ua"
+	"github.com/piggito/opcua/uasc"
 )
 
 // SubscriptionService implements the Subscription Service Set.

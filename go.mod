@@ -1,4 +1,4 @@
-module github.com/gopcua/opcua
+module github.com/piggito/opcua
 
 go 1.22.0
 

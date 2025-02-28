@@ -7,8 +7,8 @@ import (
 	"expvar"
 	"testing"
 
-	"github.com/gopcua/opcua"
-	"github.com/gopcua/opcua/stats"
+	"github.com/piggito/opcua"
+	"github.com/piggito/opcua/stats"
 	"github.com/stretchr/testify/require"
 )
 

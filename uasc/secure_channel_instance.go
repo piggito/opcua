@@ -10,11 +10,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/gopcua/opcua/debug"
-	"github.com/gopcua/opcua/errors"
-	"github.com/gopcua/opcua/id"
-	"github.com/gopcua/opcua/ua"
-	"github.com/gopcua/opcua/uapolicy"
+	"github.com/piggito/opcua/debug"
+	"github.com/piggito/opcua/errors"
+	"github.com/piggito/opcua/id"
+	"github.com/piggito/opcua/ua"
+	"github.com/piggito/opcua/uapolicy"
 )
 
 type instanceState int

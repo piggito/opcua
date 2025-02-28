@@ -1,9 +1,9 @@
 package refs
 
 import (
-	"github.com/gopcua/opcua/id"
-	"github.com/gopcua/opcua/server/attrs"
-	"github.com/gopcua/opcua/ua"
+	"github.com/piggito/opcua/id"
+	"github.com/piggito/opcua/server/attrs"
+	"github.com/piggito/opcua/ua"
 )
 
 // HasSubtype returns a HasSubtype reference.

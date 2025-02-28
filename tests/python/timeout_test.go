@@ -8,8 +8,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gopcua/opcua"
-	"github.com/gopcua/opcua/errors"
+	"github.com/piggito/opcua"
+	"github.com/piggito/opcua/errors"
 	"github.com/stretchr/testify/require"
 )
 

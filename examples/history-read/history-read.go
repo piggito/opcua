@@ -10,9 +10,9 @@ import (
 	"log"
 	"time"
 
-	"github.com/gopcua/opcua"
-	"github.com/gopcua/opcua/debug"
-	"github.com/gopcua/opcua/ua"
+	"github.com/piggito/opcua"
+	"github.com/piggito/opcua/debug"
+	"github.com/piggito/opcua/ua"
 )
 
 func main() {

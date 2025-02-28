@@ -6,7 +6,7 @@ import (
 	"io"
 	"testing"
 
-	"github.com/gopcua/opcua/ua"
+	"github.com/piggito/opcua/ua"
 	"github.com/stretchr/testify/require"
 )
 

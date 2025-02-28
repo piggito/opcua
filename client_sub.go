@@ -7,11 +7,11 @@ import (
 	"slices"
 	"time"
 
-	"github.com/gopcua/opcua/debug"
-	"github.com/gopcua/opcua/errors"
-	"github.com/gopcua/opcua/stats"
-	"github.com/gopcua/opcua/ua"
-	"github.com/gopcua/opcua/uasc"
+	"github.com/piggito/opcua/debug"
+	"github.com/piggito/opcua/errors"
+	"github.com/piggito/opcua/stats"
+	"github.com/piggito/opcua/ua"
+	"github.com/piggito/opcua/uasc"
 )
 
 // Subscribe creates a Subscription with given parameters.

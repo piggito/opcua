@@ -1,8 +1,8 @@
 package server
 
 import (
-	"github.com/gopcua/opcua/ua"
-	"github.com/gopcua/opcua/uasc"
+	"github.com/piggito/opcua/ua"
+	"github.com/piggito/opcua/uasc"
 )
 
 // NodeManagementService implements the Node Management Service Set.
